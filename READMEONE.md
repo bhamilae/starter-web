@@ -1,9 +1,9 @@
-# Starter Web Project -> heading
+# Starter Web Project 
 
 ## Introduction
 
 ## Purpose
 
-## Deployment
+##  Deployment
 
 ## How To Contribute
