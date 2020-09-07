@@ -1,7 +1,7 @@
 # Starter Web Project 
 Start saying thank you to everyone
 This is simple website project for showing how to use GIT and GITHUB together.
-
+ermergy fix
 
 ## Introduction
 Modifying for stash purpose
