@@ -5,6 +5,7 @@ This is simple website project for showing how to use GIT and GITHUB together.
 ## Introduction
 
 This is an introduction araea.
+Thaknks to allalla 
 
 ## Purpose
 As stated above, the main purpos is to provide simple examples for GIT training
