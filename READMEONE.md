@@ -3,6 +3,8 @@ Start saying thank you to everyone
 This is simple website project for showing how to use GIT and GITHUB together.
 ermergy fix
 
+Adding for multiple stash purpose
+
 ## Introduction
 Modifying for stash purpose
 This is an introduction araea.
